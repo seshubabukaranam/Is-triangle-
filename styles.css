@@ -1,0 +1,182 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Gloria+Hallelujah&family=Montserrat&family=Patrick+Hand&family=Permanent+Marker&family=Trispace&display=swap');
+
+.nav-brand {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: larger;
+    margin-bottom: 1rem;
+    margin-left: 20px;
+    
+}
+.nav-bar{
+    font-weight: bold;
+    background-color: rgb(48, 48, 245);
+    padding: 1rem ;
+    margin-left: 0px;
+    display: block;
+ 
+}
+body{
+    background-color: rgb(48, 49, 49);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    /* text-align: center; */
+    margin: auto;
+
+}
+
+.container{
+    width: 400px;
+    margin:auto;
+}
+.question-container
+{
+    width: 500px;
+    margin:auto;
+}
+h1{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+#output-message{
+    text-align: center;
+    padding: 1rem;
+    color: white;
+    
+}
+#angle{
+    margin-top: 0.5rem;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+}
+.input-angle{
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 10px;
+}
+#btn-istriangle{
+    background-color:rgb(48, 48, 245) ;
+    width: 110%;
+    padding: 1rem;
+    margin: auto;
+    margin-top: 0.5rem;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+}
+
+.list-non-bullets
+{
+ list-style: none;
+ padding-inline-start: 0px;
+
+}
+.list-item-inline
+{
+ display: inline;
+ padding: 0rem 1.5rem;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.link-active{
+    border-bottom: 2px solid;
+    font-weight: bold
+}
+ #caluclate-hypotenuse{
+    width: 110%;
+    padding: 1rem;
+    text-align: center;
+    display: block;
+    margin: auto;
+    background-color:rgb(48, 48, 245) ;
+    margin-top: 2rem; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger; 
+    border-radius: 10px;
+    color: white;
+    border-color: aliceblue;
+
+} 
+#btn-submit-quiz{
+padding: 1rem;
+text-align: center;
+display: block;
+margin: auto;
+background-color:rgb(48, 48, 245) ;
+margin-top: 2rem; 
+font-family: 'Montserrat', sans-serif;
+font-size: larger; 
+border-radius: 10px;
+color: white;
+border-color: aliceblue;
+}
+#output-message-quiz{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 2rem;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.side-input{
+    padding: 1rem;
+    width: 100%;
+    margin : 1rem 0rem ;
+    border-radius: 5px;
+}
+#output-message-hypo{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 2rem;
+    margin: auto;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.input-base-height{
+
+    padding: 1rem;
+    width: 100%;
+    margin : 1rem 0rem ;
+    border-radius: 5px;
+}
+#btn-cheak-area{
+width: 110%;
+padding: 1rem;
+text-align: center;
+display: block;
+margin: auto;
+background-color:rgb(48, 48, 245) ;
+margin-top: 2rem; 
+font-family: 'Montserrat', sans-serif;
+font-size: larger; 
+border-radius: 10px;
+color: white;
+border-color: aliceblue;
+}
+#area-formula{
+    text-align: center;
+    border-width: 5px;
+    padding: 1rem;
+    border-style: solid;
+    border-width: 2px;
+    width: 100%;
+    border-color:rgb(48, 48, 240) ;
+  
+}
+
+#output-message-area {
+
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 2rem;
+    margin: auto;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
